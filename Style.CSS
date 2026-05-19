@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+
+body {background-color:gainsboro;}
+h2 {
+	color:black;
+	text-decoration: underline wavy 5px blue;
+	 font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 30px;
+}
